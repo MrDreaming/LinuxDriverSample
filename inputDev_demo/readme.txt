@@ -8,10 +8,10 @@
 例程来自网络
 https://blog.csdn.net/A694543965/article/details/79849831
 
-这两个命令可以看到新加入的输入子系统设备节点
-添加输入模块
 
-admin@ubuntu:~/src/inputSystenDemo$ make
+
+admin@ubuntu:~/src/inputDev_demo$ make
+
 
 $ insmod inputzzy.ko
 $ lsmod
