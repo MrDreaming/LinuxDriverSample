@@ -1,0 +1,1 @@
+cmd_/home/zzy/src/driverAnyka/helloworld/hello.ko := arm-none-linux-gnueabi-ld -r  -T /home/hp/anyka/kernel/scripts/module-common.lds --build-id -o /home/zzy/src/driverAnyka/helloworld/hello.ko /home/zzy/src/driverAnyka/helloworld/hello.o /home/zzy/src/driverAnyka/helloworld/hello.mod.o
